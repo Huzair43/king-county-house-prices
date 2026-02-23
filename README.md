@@ -4,7 +4,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0-green)](https://xgboost.readthedocs.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -148,7 +147,6 @@ jupyter>=1.0
 
 ## 👤 Auteur
 
-**BAGAGNAN OUSAIROU**  
-*IBM Data Science Professional Certificate*  
+**BAGAGNAN OUSAIROU**    
 
 
