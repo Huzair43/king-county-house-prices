@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Résumé du Projet
+##  Résumé du Projet
 
 Ce projet prédit le **prix de vente de maisons dans le comté de King (Seattle, WA)** à partir de 21 613 transactions immobilières (mai 2014 – mai 2015). Il couvre l'intégralité du cycle d'un projet ML : nettoyage, feature engineering, EDA visuelle, comparaison de 6 modèles, optimisation d'hyperparamètres et analyse de la performance finale.
 
@@ -16,7 +16,7 @@ Ce projet prédit le **prix de vente de maisons dans le comté de King (Seattle,
 
 ---
 
-## 🎯 Objectif Business
+##  Objectif Business
 
 Fournir à une agence immobilière un outil d'estimation du prix de marché à partir des caractéristiques d'un bien, avec une **erreur médiane inférieure à 10%** sur 74% des biens.
 
@@ -46,7 +46,7 @@ king-county-house-prices/
 
 ---
 
-## 🛠️ Méthodologie
+##  Méthodologie
 
 ```
 Données brutes
@@ -79,7 +79,7 @@ Analyse finale (feature importance + résidus)
 
 ---
 
-## 📊 Résultats
+##  Résultats
 
 | Modèle | CV R² | Test R² | RMSE ($) | MAE ($) |
 |--------|-------|---------|----------|---------|
@@ -100,7 +100,7 @@ Analyse finale (feature importance + résidus)
 
 ---
 
-## 🚀 Installation & Exécution
+##  Installation & Exécution
 
 ```bash
 # Cloner le dépôt
@@ -121,7 +121,7 @@ jupyter notebook King_County_House_Price_Prediction.ipynb
 
 ---
 
-## 📦 Dépendances
+##  Dépendances
 
 ```
 pandas>=2.0
@@ -148,18 +148,7 @@ jupyter>=1.0
 
 ## 👤 Auteur
 
-**[Votre Nom]**  
+**BAGAGNAN OUSAIROU**  
 *IBM Data Science Professional Certificate*  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/VOTRE_PROFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/VOTRE_USERNAME)
 
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-*Dataset original : [Kaggle — House Sales in King County](https://www.kaggle.com/harlfoxem/housesalesprediction)*
